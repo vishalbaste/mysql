@@ -1,0 +1,22 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "MySql with NodeJs, Python, and PHP",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --experimental-detect-module app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalbaste/mysql.git"
+  },
+  "author": "Vishal Baste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalbaste/mysql/issues"
+  },
+  "homepage": "https://github.com/vishalbaste/mysql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
